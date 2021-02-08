@@ -1,0 +1,13 @@
+{
+  "name": "05-express-crud",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "theHasanas <30086691+theHasanas@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
